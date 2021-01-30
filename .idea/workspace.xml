@@ -2,53 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="349cf775-8d37-4c6f-8bd9-720229069946" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/094a42d43b283182ff722e309447442d7eeacd4e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b678fe6b4fe73ec36529d652dcea33bf965eb7f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10283bf4c21cd51f6c8b2fe4f985e17251a27d16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/203cc15111dc0a13f8c0a7b416c953541e8462ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f5b578f60f58b275d150e0ea9c20c239fb2a91" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24b8962fa45853b8b5b1d5dd38ac53eda9f9bc58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31bbf715ef6798a5eac7afa45286359ffd83ec9a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3355007bc850c6912ddaf67fdcf07ca526169409" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39858150e5180751c034a1e76757e8b62eb2c08a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a40cde0224d763659981901c6ea201071539bac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40d4fab146f683b088c2a11647f681b4cc46a819" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44246e02cd7c278185c36da689b5a4ff6c58cab2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5fe1dd86c8f36bf3a47c2b2f628cb787509db1cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/646cb7b117831be4c539bcd0575268a4f825e936" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66b7cdf5306743eccb8a4a47fa73df1b992b041c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82c658403ff46f885af10cb40131686a9e42f047" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/872d9aee9c72930b93db6b156d7871b909e119d4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e19a4d17311d23caae9c2ce03d1e9fca68b615f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96eb66975e50335962ed76394263a836f56af74b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/9827ed3c284d1858016d592c3140df8427820262" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988bf1fc8c387ed79dcf8024c3f10f41ef4e1322" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a78558459b6a8add616d33764529b14d2ed99389" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af46afd5eeeaf2cd36137a389f6cfcb89903b6ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1aed565f03800df414b82937f76e88fc9090861" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3ab7d63250d45035815639d997d33515a10920f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6a537f3220d411134846fc465432fa95c5688f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf3b39d4a5af8e4cb4fae44604dff54cf8ae79d9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c00d567d2db70b632dbf12c9f6c87e5425313888" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c77c462aa44806efe62fb014863311097f9194ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8b2688399fddbb4a49e808f2df1d60f777eb7f7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf0d499d43d2dc6965039ba5c2456a4265e65290" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf6d070c12d78bafef3f4775da95edb654c8fa90" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/dbb9392eae58540985d6706a8357e4bc4024a022" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4d92a17983586369e26f221a99ec96c1c26bac8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/8/e832a1dcfaf7a243efe42e677f900393fec87287" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7355a0be329d73ea351858d98454ec9e37d6308" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f75ebc0113df952017aa9a76eac2a680a6a054da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa88023338ca005471cda440e466986b1602fe21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uzdevums-client" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/proxy.conf.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/src/app/equipment/equipment.service.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/src/app/equipment/model/equipment.ts" afterDir="false" />
@@ -64,45 +17,7 @@
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/src/shared/base/base.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/src/shared/dateUtil.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Uzdevums-client/src/shared/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Uzdevums.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/archived/spring-boot-logger-2021-01-25.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/archived/spring-boot-logger-2021-01-26.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/archived/spring-boot-logger-2021-01-27.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/archived/spring-boot-logger-2021-01-28.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/archived/spring-boot-logger-2021-01-29.0.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/spring-boot-logger.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/Util/Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/Util/EquipmentValuesSetUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/UzdevumsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/enums/Status.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/eqRequest/EqRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/eqRequest/EqRequestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/eqRequest/EqRequestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/eqRequest/EqRequestRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Uzdevums/eqRequest/EqRequestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Uzdevums/db/20210126_01_init_eq_request.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Uzdevums/mapper/EqRequestMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db.changelog-master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Uzdevums.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/Util/Dropdown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/Util/EquipmentValuesSetUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/UzdevumsApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/db/20210126_01_init_eq_request.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/enums/Status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/eqRequest/EqRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/eqRequest/EqRequestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/eqRequest/EqRequestMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/eqRequest/EqRequestRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/eqRequest/EqRequestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Uzdevums/mapper/EqRequestMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/db.changelog-master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Uzdevums-client" beforeDir="false" afterPath="$PROJECT_DIR$/Uzdevums-client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Uzdevums-client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Uzdevums-client/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Uzdevums-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Uzdevums-client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Uzdevums-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Uzdevums-client/package.json" afterDir="false" />
@@ -139,7 +54,11 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Uzdevums-client/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -368,12 +287,12 @@
       <workItem from="1611929562430" duration="11617000" />
       <workItem from="1611943814508" duration="23637000" />
       <workItem from="1612022390959" duration="376000" />
-      <workItem from="1612023109610" duration="1734000" />
+      <workItem from="1612023109610" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175903000" />
+    <option name="totallyTimeSpent" value="176388000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,6 +305,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1374" y="279" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33358547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -849,7 +769,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Uzdevums-client/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
