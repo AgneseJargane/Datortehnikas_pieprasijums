@@ -1,0 +1,4 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚ïô­ûÿÿÿÿ
+msquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¸û¬8°ŠÌ¢ô.
+ƒsquid:S14886"eImmediately return this expression instead of assigning it to the temporary variable "eqRequestList".(°˜¾¨8Š²Ëúô.

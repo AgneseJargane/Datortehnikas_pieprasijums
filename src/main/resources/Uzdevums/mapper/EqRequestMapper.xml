@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="Uzdevums.eqRequest.EqRequestMapper">
+
+	<select id="getEquipmentRequestList" resultType="Uzdevums.eqRequest.EqRequest">
+	SELECT
+		er.id,
+		er.insert_date AS insertDate,
+		er.status,
+		er.eq_name AS eqName,
+		er.eq_manufacturer AS eqManufacturer,
+		er.eq_processor AS eqProcessor,
+		er.eq_memory AS eqMemory,
+		er.eq_justification AS eqJustification
+	FROM eq_request er
+	WHERE er.status NOT IN ('DELETED')
+	ORDER BY er.insert_date DESC
+	</select>
+</mapper>

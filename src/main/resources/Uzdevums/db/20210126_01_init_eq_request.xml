@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+	http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.5.xsd">
+
+	<changeSet id="20210126_01_init_eq_request" author="ajargane">
+
+		<createTable tableName="eq_request">
+			<column autoIncrement="true" name="id" type="BIGSERIAL">
+				<constraints primaryKey="true" primaryKeyName="eq_request_pkey" />
+			</column>
+			<column name="status" type="VARCHAR(255)">
+				<constraints nullable="false" />
+			</column>
+			<column name="insert_date" type="DATETIME(6)" defaultValueComputed="NOW(6)">
+				<constraints nullable="false" />
+			</column>
+			<column name="update_date" type="DATETIME(6)" defaultValueComputed="NOW(6)">
+				<constraints nullable="false" />
+			</column>
+			<column name="eq_name" type="VARCHAR(255)">
+			<constraints nullable="false" />
+			</column>
+			<column name="eq_manufacturer" type="VARCHAR(255)">
+				<constraints nullable="false" />
+			</column>
+			<column name="eq_processor" type="VARCHAR(255)">
+			<constraints nullable="false" />
+			</column>
+			<column name="eq_memory" type="VARCHAR(255)">
+				<constraints nullable="false" />
+			</column>
+			<column name="eq_justification" type="VARCHAR(255)">
+				<constraints nullable="false" />
+			</column>
+		</createTable>
+	</changeSet>
+
+</databaseChangeLog>
